@@ -1,5 +1,7 @@
 Something 4 Nothing // NUS '26 Computer Engineering MSc // Internships: Huawei → A*STAR IAIC
+
 RhineDroid, ChatCatHat, UniXNU porting // Stay tuned for more original projects.
+
 > Now it's time for vibecoding!
 
 Read my articles on Coolapk & SSPAI; follow my dev updates on Coolapk & RedNote.
