@@ -70,3 +70,7 @@ Computers
 Handhelds
 
 ![Cardputer](https://img.shields.io/badge/Cardputer-e7352c?style=flat-square&logo=espressif&logoColor=white)
+
+## AI coding activity (last 30 days)
+
+[![Enc3l's Tokscale vitals: tokens, estimated cost, rank, active days, activity rate and intensity over the last 30 days](https://tokscale.ai/api/embed/IssacL04/svg?template=vitals&period=month&theme=dark&color=teal&tokens=full&cost=full&rank=total&sort=tokens)](https://tokscale.ai/u/IssacL04?period=month)
