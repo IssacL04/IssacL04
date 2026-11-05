@@ -13,7 +13,11 @@ Read my articles on Coolapk & SSPAI; follow my dev updates on Coolapk & RedNote.
 
 ## GitHub status
 
-[![Enc3l's GitHub stats: stars, commits, PRs and issues](https://github-readme-stats.vercel.app/api?username=IssacL04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79e2bd&icon_color=79e2bd&text_color=c9d1d9&hide_rank=true&border_radius=12)](https://github.com/IssacL04?tab=overview)
+[![Enc3l's GitHub stats: stars, commits, PRs, issues and rank](https://github-stats-extended.vercel.app/api?username=IssacL04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79e2bd&icon_color=79e2bd&text_color=c9d1d9&hide_rank=false&border_radius=12)](https://github.com/IssacL04?tab=overview)
+
+## AI coding activity
+
+[![Enc3l's Tokscale usage: tokens, estimated cost and token rank](https://tokscale.ai/api/embed/IssacL04/svg)](https://tokscale.ai/u/IssacL04)
 
 ## 2026 · Featured projects
 
@@ -23,7 +27,7 @@ Read my articles on Coolapk & SSPAI; follow my dev updates on Coolapk & RedNote.
 | [**UniXNU-Pagani_SM8750**](https://github.com/IssacL04/UniXNU-Pagani_SM8750) | UniXNU / XNU port for the OnePlus 13T. Boots into the iPadOS UI; touch and other hardware support remain in progress. | Python · Shell · UEFI · XNU |
 | [**UniXNU-Pagani-Drivers**](https://github.com/IssacL04/UniXNU-Pagani-Drivers) | Drivers and kernel libraries for the OnePlus 13T port, covering boot, storage reads and display. | C++ · C · Python · ARM64 |
 | [**ChatCatHat**](https://github.com/IssacL04/ChatCatHat) | A privacy-calling service with number mapping, an operations dashboard and an Android SIP client. | Node.js · Asterisk · SQLite · Kotlin |
-| [**Foot2Fog**](https://github.com/IssacL04/Foot2Fog) | Converts CSV records from Umetrip, Footprint and similar sources into GPX files for Fog of World. | Python |
+| [**Quickshell_Enc3l**](https://github.com/IssacL04/Quickshell_Enc3l) | My independently maintained Material-style desktop shell for Niri, based on Clavis Shell. | QML · Qt 6 · C++ · Quickshell |
 
 
 ## Star history
@@ -31,6 +35,8 @@ Read my articles on Coolapk & SSPAI; follow my dev updates on Coolapk & RedNote.
 [![Star history for RhineDroid, ChatCatHat and UniXNU-Pagani_SM8750](https://api.star-history.com/svg?repos=IssacL04/RhineDroid,IssacL04/ChatCatHat,IssacL04/UniXNU-Pagani_SM8750&type=Date&theme=dark)](https://www.star-history.com/#IssacL04/RhineDroid&IssacL04/ChatCatHat&IssacL04/UniXNU-Pagani_SM8750&Date)
 
 ## Languages
+
+[![Enc3l's most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IssacL04&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=79e2bd&text_color=c9d1d9&border_radius=12)](https://github.com/IssacL04?tab=repositories)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-746311?style=flat-square&logo=javascript&logoColor=white)
