@@ -70,22 +70,3 @@ Computers
 Handhelds
 
 ![Cardputer](https://img.shields.io/badge/Cardputer-e7352c?style=flat-square&logo=espressif&logoColor=white)
-
-## AI coding activity (last 30 days)
-
-[![Enc3l's Tokscale 3D contributions graph for the last 30 days](https://tokscale.ai/api/embed/IssacL04/svg?view=3d&period=month&compact=1&theme=dark&color=teal)](https://tokscale.ai/u/IssacL04)
-
-<!-- TOKSCALE_MODELS_START -->
-### Model usage
-
-2026-10-07 to 2026-11-05 · Updated daily.
-
-| Model | Tokens | Estimated cost |
-| :--- | ---: | ---: |
-| gpt-6-astra | 1,538,291,829 | $2,411.73 |
-| gpt-6.1-sol | 335,827,603 | $142.25 |
-| codex-auto-review | 162,244,360 | $0.00 |
-| gpt-6-sol | 87,136,002 | $21.72 |
-
-Costs are Tokscale estimates. Unpriced usage can appear as $0.
-<!-- TOKSCALE_MODELS_END -->
