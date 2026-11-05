@@ -1,0 +1,46 @@
+name: Update Tokscale model usage
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/update-tokscale.yml
+      - scripts/update_tokscale.py
+      - tests/test_update_tokscale.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tokscale-model-usage
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+
+      - name: Check model table updater
+        run: python3 -m unittest discover -s tests
+
+      - name: Refresh the rolling 30-day model table
+        shell: bash
+        run: |
+          curl --fail --silent --show-error --location \
+            --connect-timeout 10 --max-time 60 --retry 2 --retry-delay 2 \
+            --user-agent "IssacL04 GitHub profile" \
+            "https://tokscale.ai/api/users/IssacL04?period=month" \
+            | python3 scripts/update_tokscale.py
+
+      - name: Save the updated model table
+        run: |
+          git add README.md
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh 30-day Tokscale model usage"
+          git push

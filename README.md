@@ -13,11 +13,10 @@ Read my articles on Coolapk & SSPAI; follow my dev updates on Coolapk & RedNote.
 
 ## GitHub status
 
-[![Enc3l's GitHub stats: stars, commits, PRs, issues and rank](https://github-stats-extended.vercel.app/api?username=IssacL04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79e2bd&icon_color=79e2bd&text_color=c9d1d9&hide_rank=false&border_radius=12)](https://github.com/IssacL04?tab=overview)
-
-## AI coding activity
-
-[![Enc3l's Tokscale usage: tokens, estimated cost and token rank](https://tokscale.ai/api/embed/IssacL04/svg)](https://tokscale.ai/u/IssacL04)
+<p>
+  <a href="https://github.com/IssacL04?tab=overview"><img width="59%" src="https://github-stats-extended.vercel.app/api?username=IssacL04&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79e2bd&amp;icon_color=79e2bd&amp;text_color=c9d1d9&amp;hide_rank=false&amp;border_radius=12" alt="Enc3l's GitHub stats: stars, commits, PRs, issues and rank" /></a>
+  <a href="https://github.com/IssacL04?tab=repositories"><img width="39%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IssacL04&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79e2bd&amp;text_color=c9d1d9&amp;border_radius=12" alt="Enc3l's most used languages" /></a>
+</p>
 
 ## 2026 · Featured projects
 
@@ -35,8 +34,6 @@ Read my articles on Coolapk & SSPAI; follow my dev updates on Coolapk & RedNote.
 [![Star history for RhineDroid, ChatCatHat and UniXNU-Pagani_SM8750](https://api.star-history.com/svg?repos=IssacL04/RhineDroid,IssacL04/ChatCatHat,IssacL04/UniXNU-Pagani_SM8750&type=Date&theme=dark)](https://www.star-history.com/#IssacL04/RhineDroid&IssacL04/ChatCatHat&IssacL04/UniXNU-Pagani_SM8750&Date)
 
 ## Languages
-
-[![Enc3l's most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IssacL04&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=79e2bd&text_color=c9d1d9&border_radius=12)](https://github.com/IssacL04?tab=repositories)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-746311?style=flat-square&logo=javascript&logoColor=white)
@@ -73,3 +70,22 @@ Computers
 Handhelds
 
 ![Cardputer](https://img.shields.io/badge/Cardputer-e7352c?style=flat-square&logo=espressif&logoColor=white)
+
+## AI coding activity (last 30 days)
+
+[![Enc3l's Tokscale 3D contributions graph for the last 30 days](https://tokscale.ai/api/embed/IssacL04/svg?view=3d&period=month&compact=1&theme=dark&color=teal)](https://tokscale.ai/u/IssacL04)
+
+<!-- TOKSCALE_MODELS_START -->
+### Model usage
+
+2026-10-07 to 2026-11-05 · Updated daily.
+
+| Model | Tokens | Estimated cost |
+| :--- | ---: | ---: |
+| gpt-6-astra | 1,538,291,829 | $2,411.73 |
+| gpt-6.1-sol | 335,827,603 | $142.25 |
+| codex-auto-review | 162,244,360 | $0.00 |
+| gpt-6-sol | 87,136,002 | $21.72 |
+
+Costs are Tokscale estimates. Unpriced usage can appear as $0.
+<!-- TOKSCALE_MODELS_END -->
